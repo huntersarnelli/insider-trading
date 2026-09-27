@@ -1,0 +1,10 @@
+# Downloaded and generated data stays local (Hunter, 26 Sep 2026): no CSVs or data in git.
+data/
+results/
+*.csv
+*.parquet
+*.zip
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.env
